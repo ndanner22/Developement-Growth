@@ -1,0 +1,14 @@
+Total users:   4
+Total Tasks: 11
+admin currently is assigned 4, or 36.36363636363637% of the tasks.
+tara currently is assigned 2, or 18.181818181818183% of the tasks.
+neil currently is assigned 4, or 36.36363636363637% of the tasks.
+darren currently is assigned 1, or 9.090909090909092% of the tasks.
+admin has completed 50.0% of their tasks.
+neil has completed 25.0% of their tasks.
+admin still needs to complete 50.0% of their tasks.
+tara still needs to complete 100.0% of their tasks.
+neil still needs to complete 75.0% of their tasks.
+darren still needs to complete 100.0% of their tasks.
+neil is currently overdue on 100.0 of their incomplete projects.
+darren is currently overdue on 100.0 of their incomplete projects.

@@ -1,0 +1,6 @@
+There are currently 11 tasks in task manager.
+3 have been completed.
+8 are still not complete.
+4 are currently overdue.
+72.73% of tasks are not complete.
+36.36% of tasks are currently overdue.
